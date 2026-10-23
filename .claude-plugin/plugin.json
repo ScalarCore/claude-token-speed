@@ -1,0 +1,8 @@
+{
+  "name": "token-speed",
+  "version": "0.1.1",
+  "description": "Shows each reply's output token speed (tokens/s) above the prompt",
+  "author": { "name": "ScalarCore" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

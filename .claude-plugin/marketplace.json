@@ -1,0 +1,5 @@
+{
+  "name": "claude-token-speed",
+  "owner": { "name": "ScalarCore" },
+  "plugins": [{ "name": "token-speed", "source": "./" }]
+}
